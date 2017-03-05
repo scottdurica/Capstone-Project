@@ -2,4 +2,22 @@
     <string name="app_name">Trippin</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="content_authority">com.riprap.emrox.trippin</string>
+    <string name="MBTA_api_key">RDT_-KgPOUql9eQv_etvig</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_title_current_trip">My Trip</string>
+    <string name="tab_title_alerts">Alerts</string>
+    <string name="tab_title_maps">Maps</string>
+    <string name="tab_title_stations">Stations</string>
+    <string name="tab_title_saved_trips">Saved Trips</string>
+    <string name="tab_title_trips">Trips</string>
+
+    <string name="line_list_title_subway">Subway</string>
+    <string name="line_list_title_ferry">Ferry</string>
+    <string name="line_list_title_bus">Bus</string>
+    <string name="line_list_title_commuter_rail">Commuter Rail</string>
+    <string name="sync_account_type">trippin.emrox.riprap.com</string>
 </resources>
